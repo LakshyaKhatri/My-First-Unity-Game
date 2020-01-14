@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+# This .gitignore file should be placed at the root of your Unity project directory
+#
+# Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
+#
+>>>>>>> 4e8ff915b5e356904ef01f41e9d3ba2b6e862ef8
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -52,4 +59,9 @@ sysinfo.txt
 *.unitypackage
 
 # Crashlytics generated file
+<<<<<<< HEAD
 crashlytics-build.properties
+=======
+crashlytics-build.properties
+
+>>>>>>> 4e8ff915b5e356904ef01f41e9d3ba2b6e862ef8
